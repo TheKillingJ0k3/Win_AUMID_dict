@@ -10,4 +10,6 @@ Right click the top bar > Properties > Layout > Screen Buffer Size > Wrap text o
 <img width="460" alt="powershell width" src="https://user-images.githubusercontent.com/25702508/206517557-607f8f9b-b559-4271-b77f-f0bd7764c7d6.PNG">
 
 
-Works kind of ok, but mixes up some values at the moment.
+Kind of works, but at one point mixes up some values at the moment.
+
+<img width="1201" alt="AUMIDdict screenshot" src="https://user-images.githubusercontent.com/25702508/206519762-20af595d-244a-45c6-a21c-ca14c3d84196.PNG">
